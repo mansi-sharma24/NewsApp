@@ -62,7 +62,9 @@
                 android:id="@+id/text_detail_detail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="20sp"
+                android:textSize="16sp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
                 android:fontFamily="@font/ubuntu"
                 android:textColor="@color/black"
                 android:layout_marginTop="8dp">
@@ -73,9 +75,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
                 android:fontFamily="@font/ubuntu"
                 android:textColor="@color/black"
-                android:textSize="20sp">
+                android:textSize="16sp">
             </TextView>
         </LinearLayout>
     </ScrollView>

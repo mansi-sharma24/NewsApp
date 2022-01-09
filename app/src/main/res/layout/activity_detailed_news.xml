@@ -62,7 +62,7 @@
                 android:id="@+id/text_detail_detail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="22sp"
+                android:textSize="20sp"
                 android:fontFamily="@font/ubuntu"
                 android:textColor="@color/black"
                 android:layout_marginTop="8dp">
@@ -75,7 +75,7 @@
                 android:layout_marginTop="8dp"
                 android:fontFamily="@font/ubuntu"
                 android:textColor="@color/black"
-                android:textSize="22sp">
+                android:textSize="20sp">
             </TextView>
         </LinearLayout>
     </ScrollView>

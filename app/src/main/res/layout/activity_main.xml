@@ -20,13 +20,14 @@
                 android:layout_margin="6dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
+
             <Button
                 android:id="@+id/btn_2"
-                android:text="entertainment"
-                android:padding="6dp"
-                android:layout_margin="6dp"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:layout_margin="6dp"
+                android:padding="6dp"
+                android:text="entertainment" />
             <Button
                 android:id="@+id/btn_3"
                 android:text="general"
